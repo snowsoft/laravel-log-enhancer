@@ -30,7 +30,7 @@ Laravel logs help all of us debug issues. We value them the most in production. 
 
 1) Install the package by running this command in your terminal/cmd:
 ```
-composer require freshbitsweb/laravel-log-enhancer
+composer require snowsoft/laravel-log-enhancer
 ```
 
 2) Add this package's LogEnhancer class to the tap option of your log channel in **config/logging.php**:
